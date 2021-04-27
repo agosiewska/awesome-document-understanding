@@ -131,7 +131,7 @@ Documents are a core part of many businesses in many fields such as law, finance
 
 1. [The RVL-CDIP Dataset](https://www.cs.cmu.edu/~aharley/rvl-cdip/) - dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class
 1. [The Industry Documents Library](https://www.industrydocuments.ucsf.edu/) - a portal to millions of documents created by industries that influence public health, hosted by the UCSF Library
-1. [Color Document Dataset](www.science.uva.nl/UvA-CDD/UvA-CDD.tar.gz) - from the Intelligent Sensory Information Systems, University of Amsterdam
+1. [Color Document Dataset](http://www.science.uva.nl/UvA-CDD/UvA-CDD.tar.gz) - from the Intelligent Sensory Information Systems, University of Amsterdam
 1. [The IIT CDIP Test Collection](https://ir.nist.gov/cdip/README.txt) - broken, see [github discussion](https://github.com/cneud/ocr-gt/issues/12)
 
 
